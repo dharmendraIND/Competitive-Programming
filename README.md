@@ -1,2 +1,2 @@
 # Competitive-Programming
-leetcode, hackerrank, various other different competitive programming questions will use in this repo for personal use.
+leetcode, hackerrank,codechef and various other different competative programming questions will be use in this repo for personal use.
