@@ -18,8 +18,8 @@ public class TwoSum {
   }
 
 public static void main(String[] args) {          /* so there is no object in the program so method should be static otherwise 
-						   show error that no non-static method cannot be referenced from a static  
-						   context */
+						   it show error 'that no non-static method cannot be referenced from a static  
+						   context' */
   int[] nums = {1,2,3,4,5,6,7};
   int target = 8;
 
