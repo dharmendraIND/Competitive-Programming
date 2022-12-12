@@ -1,12 +1,8 @@
 #include<iostream>
 using namespace std;
 
-int main() 
+main()
 {
 
-cout<< "hello ";
-
-return 0;
-
+cout << "Learning cpp ";
 }
-
