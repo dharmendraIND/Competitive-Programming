@@ -1,0 +1,5 @@
+
+Abstration:
+
+Data abstraction refers to providing only essential information to the users and their background details.
+
